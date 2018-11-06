@@ -1,0 +1,29 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon.com?",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlSHBONES/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "beff",
+    "jezos"
+  ],
+  "author": "beff jezos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlSHBONES/Bamazon/issues"
+  },
+  "homepage": "https://github.com/FlSHBONES/Bamazon#readme"
+}
